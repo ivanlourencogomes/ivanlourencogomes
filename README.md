@@ -1,7 +1,9 @@
 
 <h1>Ivan Lourenço Gomes</h1>
 <h3>Front End Developer and Online Instructor</h3>
+<p>HTML &#8226; CSS, Sass, Less &#8226; Javascript &#8226; Vue JS &#8226; PHP &#8226; Python </p>
 <a href="https://www.linkedin.com/in/ivan-louren%C3%A7o-gomes-07694956/" target="_blank" ><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
+
 
 <h4>📕 My Courses</h4>
 
