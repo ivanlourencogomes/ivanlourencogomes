@@ -13,7 +13,7 @@
 - [React JS with TypeScript, Redux Toolkit & Firebase](https://dawebschools.com/course/react-complete-redux-typescript-firebase)
 
 <h5>Most popular:</h5>
-- [Complete Front End Developer Course](https://dawebschools.com/course/complete-webdeveloper-bootcamps)
+- <a href="https://dawebschools.com/course/complete-webdeveloper-bootcamps">Complete Front End Developer Course</a>
 
 <br>
 <a href="https://dawebschools.com/" target="_blank">Checkout the complete list of courses here</a>
