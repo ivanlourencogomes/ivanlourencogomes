@@ -15,7 +15,7 @@
 
 
 <h5>Complete list</h5>
-<a href="https://dawebschools.com/" target="_blank">Checkout the complete list of courses I teach here</a>
+<a href="https://www.udemy.com/user/ivan-lourenco-gomes/" target="_blank">Checkout the complete list of courses I teach here</a>
 <br />
 <h4>💻 Current side project</h4>
 
